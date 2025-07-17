@@ -4,7 +4,7 @@ proxy_mode: dynamic
 nstproxy_channel: ''
 # 动态代理密码（仅proxy_mode为dynamic时需要）
 nstproxy_password: ''
-# 每个账号执行多少次脚本（原交互输入）
+# 每个账号执行多少次脚本
 script_run_count: 5
 # 运行模式（1=安全模式，2=极速模式）
 run_mode: 1 
